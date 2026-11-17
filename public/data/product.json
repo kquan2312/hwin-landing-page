@@ -1,0 +1,17 @@
+{
+  "productName": "Hồng sâm Chu Chu vị táo lê",
+  "welcomeMessage": "Xin chào! Mình có thể giúp bạn tìm hiểu về Hồng sâm Chu Chu. Bạn muốn hỏi gì nhỉ?",
+  "fallbackMessage": "Xin lỗi, mình chưa tìm thấy thông tin này. Bạn có thể gọi nhân viên HWIN để được tư vấn trực tiếp nhé!",
+  "contact": { "phone": "0968689785", "url": "https://hwingroup.com/" },
+  "suggestions": ["Sản phẩm giá bao nhiêu?", "Bé bao nhiêu tháng dùng được?", "Mỗi ngày dùng mấy gói?", "Sản phẩm có vị gì?"],
+  "faqs": [
+    { "id": "price", "keywords": ["giá", "bao nhiêu tiền", "giá bán", "chi phí", "giá bao nhiêu"], "answer": "Sản phẩm có giá 1.160.000đ/thùng 40 gói. Giá tham khảo khi mua lẻ là 29.000đ/gói." },
+    { "id": "age", "keywords": ["mấy tuổi", "bao nhiêu tháng", "tuổi nào", "trẻ em", "bé dùng được", "độ tuổi"], "answer": "Sản phẩm phù hợp cho trẻ từ 12 tháng tuổi trở lên." },
+    { "id": "ingredient", "keywords": ["thành phần", "hồng sâm", "kẽm", "nguyên chất", "làm từ gì"], "answer": "Trong 100ml có 60% hồng sâm nguyên chất, 3,5mg kẽm cùng nước táo và lê." },
+    { "id": "taste", "keywords": ["vị gì", "mùi vị", "có dễ uống", "táo lê", "vị táo", "vị lê"], "answer": "Sản phẩm có vị táo – lê thơm nhẹ, dễ uống và giúp giảm vị đắng nhẹ của hồng sâm." },
+    { "id": "usage", "keywords": ["cách dùng", "dùng thế nào", "mỗi ngày", "mấy gói", "liều dùng", "uống bao nhiêu"], "answer": "Mẹ có thể cho bé dùng 1 gói/ngày. Sau khi mở gói nên dùng ngay." },
+    { "id": "origin", "keywords": ["xuất xứ", "ở đâu", "hàn quốc", "thương hiệu", "seoul milk"], "answer": "Sản phẩm có nguồn gốc Hàn Quốc, thương hiệu Seoul Milk, quy cách 100ml/gói và 40 gói/thùng." },
+    { "id": "shipping", "keywords": ["giao hàng", "vận chuyển", "ship", "phí ship", "bao lâu nhận"], "answer": "HWIN hỗ trợ giao hàng toàn quốc. Bạn có thể để lại số điện thoại để nhân viên tư vấn phí và thời gian giao hàng cụ thể." },
+    { "id": "return", "keywords": ["đổi trả", "hoàn tiền", "chính sách", "hàng lỗi"], "answer": "HWIN hỗ trợ tư vấn chính sách đổi trả và kiểm tra hàng qua nhân viên. Bạn có thể liên hệ hotline để được hướng dẫn." }
+  ]
+}
